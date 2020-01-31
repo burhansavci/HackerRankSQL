@@ -1,1 +1,1 @@
-You can find this question[here](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
+You can find this question [here](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)
